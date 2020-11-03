@@ -13,7 +13,7 @@ This implementation of Rigorous 2-PL ensures that our schedule is:
 
 Hence it gives us freedom from Cascading Abort which was still there in Basic 2-PL and moreover guarantee Strict Schedules but still Deadlocks are possible!
 
-**Language**: C++
+**Language**: C++ <br />
 **Libraries**: bits/stdc++, threads, unistd, mutex, condition_variable
 
 ## Steps
